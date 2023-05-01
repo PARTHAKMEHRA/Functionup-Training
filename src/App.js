@@ -1,6 +1,6 @@
 import { Fragment } from 'react';
 import './App.css';
-import { ImageGallery } from './Components/Button';
+import { ImageGallery } from './Components/button';
 
 function App() {
   return (
